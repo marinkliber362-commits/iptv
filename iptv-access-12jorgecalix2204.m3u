@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://worldtv.win/xmltv.php?username=12jorgecalix2204&password=ZcEs5sSEE5" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — 12jorgecalix2204
+http://worldtv.win/get.php?username=12jorgecalix2204&password=ZcEs5sSEE5&type=m3u_plus&output=ts
