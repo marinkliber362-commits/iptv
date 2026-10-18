@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://tecmx.lat:8080/xmltv.php?username=3182721090&password=xNrpVUDYTdE6" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — 3182721090
+http://tecmx.lat:8080/get.php?username=3182721090&password=xNrpVUDYTdE6&type=m3u_plus&output=ts
