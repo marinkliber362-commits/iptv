@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://weibplus.is/xmltv.php?username=Nelsoncorrea25uy&password=vavXWusBdQ" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — Nelsoncorrea25uy
+http://weibplus.is/get.php?username=Nelsoncorrea25uy&password=vavXWusBdQ&type=m3u_plus&output=ts
