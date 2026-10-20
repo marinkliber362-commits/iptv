@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://smarterstv99.dyndns.tv:25461/xmltv.php?username=12147104017&password=cbtaPDsYDNLW" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — 12147104017
+http://smarterstv99.dyndns.tv:25461/get.php?username=12147104017&password=cbtaPDsYDNLW&type=m3u_plus&output=ts
