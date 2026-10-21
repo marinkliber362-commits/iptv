@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://live.iptv.wtf:80/xmltv.php?username=owzoofbr&password=wG702vlYl9" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — owzoofbr
+http://live.iptv.wtf:80/get.php?username=owzoofbr&password=wG702vlYl9&type=m3u_plus&output=ts
